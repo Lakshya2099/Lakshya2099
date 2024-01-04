@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fpython&psig=AOvVaw3lSURhB668Que-s1WT8-Jy&ust=1704477458727000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDb_cOnxIMDFQAAAAAdAAAAABAD">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fpython-programming-logo-on-transparent-background-png%2F&psig=AOvVaw1dk-nns82i1AwgCwEPU1Bj&ust=1704477690610000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj717CoxIMDFQAAAAAdAAAAABAD">
 </div>
 
 ###
