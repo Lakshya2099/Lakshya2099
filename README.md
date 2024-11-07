@@ -73,6 +73,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Lakshya2099/Lakshya2099/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Lakshya2099/Lakshya2099/raw/output/snake.svg)
 
 ###
